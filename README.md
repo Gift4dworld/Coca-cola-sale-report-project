@@ -1,0 +1,2 @@
+# Coca-cola-sale-report-project
+Allow me to introduce the Coca-Cola Sales Report project, which provides valuable insights into the operating profit, shedding light on the brands that influence it positively or negatively. Additionally, the project dives into sales analysis across cities, states, and regions, while also examining the delivery performance in terms of delivery time by different delivery companies.
